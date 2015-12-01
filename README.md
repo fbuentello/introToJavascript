@@ -25,3 +25,8 @@ My recommended Sublime-Plugin:
 - Colorsublime-Themes
 
 [Sublime Themes](http://colorsublime.com/)
+
+
+#Start Server
+
+	python -m SimpleHTTPServer 8000

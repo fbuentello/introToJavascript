@@ -24,14 +24,13 @@ $(document).ready(function() {
             var location = '';
 
             // TODO: Show "city,state" if showLocation is true
-            // set to location variable
+                // set to location variable
 
             // Convert object's name to html
             var htmlObj = makeListItem(obj.name + location);
 
 
-            // Add it to the array
-            names.push(htmlObj);
+            // TODO: Add to NAMES array
 
         });
 
